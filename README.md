@@ -89,7 +89,7 @@ invertible.
 In order to complete this assignment, you must do the following:
 
 1.  Fork the GitHub repository containing the stub R files at
-    [""]
+    ["https://github.com/aayaj19/redme/blob/a441c9fb459e9e30f8360a913def5b051de0c758/redme.r"]
     to create a copy under your own account.
 2.  Clone your forked GitHub repository to your computer so that you can
     edit the files locally on your own machine.
